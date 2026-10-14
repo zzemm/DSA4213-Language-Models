@@ -24,6 +24,7 @@ DSA4213-Assignment1/
 │
 ├── code.ipynb
 ├── README.md
+├── dsa_report.pdf
 │
 ├── checkpoints/
 │   ├── cbow_embeddings.pt
